@@ -37,9 +37,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(181, 205);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(402, 25);
+            this.label1.Size = new System.Drawing.Size(372, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Student Profile - Janler Joshua Tolentino";
+            this.label1.Text = "Student Profile - GitHub Beginner Lab";
             // 
             // Form1
             // 
