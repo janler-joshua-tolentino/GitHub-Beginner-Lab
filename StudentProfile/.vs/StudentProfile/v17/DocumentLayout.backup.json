@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 199,
+          "DockedHeight": 278,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -38,8 +38,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\janle\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Form1.cs",
-              "ToolTip": "C:\\Users\\janle\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs [Design]*",
-              "RelativeToolTip": "StudentProfile\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\janle\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentProfile\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-13T07:16:11.717Z",
               "EditorCaption": " [Design]"
@@ -47,7 +47,7 @@
           ]
         },
         {
-          "DockedHeight": 201,
+          "DockedHeight": 122,
           "SelectedChildIndex": -1,
           "Children": [
             {

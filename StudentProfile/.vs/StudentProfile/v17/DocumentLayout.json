@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\janle\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E03F86C2-11B7-4350-B09C-277F77D07CAE}|StudentProfile\\StudentProfile.csproj|c:\\users\\janle\\source\\repos\\github-beginner-lab\\studentprofile\\studentprofile\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03F86C2-11B7-4350-B09C-277F77D07CAE}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E03F86C2-11B7-4350-B09C-277F77D07CAE}|StudentProfile\\StudentProfile.csproj|c:\\users\\janle\\source\\repos\\github-beginner-lab\\studentprofile\\studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E03F86C2-11B7-4350-B09C-277F77D07CAE}|StudentProfile\\StudentProfile.csproj|solutionrelative:studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -13,9 +17,22 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 199,
-          "SelectedChildIndex": 4,
+          "DockedHeight": 278,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\janle\\Source\\Repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StudentProfile\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\janle\\Source\\Repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.Designer.cs",
+              "RelativeToolTip": "StudentProfile\\Form1.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T15:58:55.369Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -34,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\janle\\source\\repos\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs",
               "RelativeDocumentMoniker": "StudentProfile\\Form1.cs",
@@ -47,7 +64,7 @@
           ]
         },
         {
-          "DockedHeight": 201,
+          "DockedHeight": 122,
           "SelectedChildIndex": -1,
           "Children": [
             {
