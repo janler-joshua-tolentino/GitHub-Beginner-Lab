@@ -8,3 +8,4 @@ C:\Users\janle\source\repos\GitHub-Beginner-Lab\StudentProfile\StudentProfile\ob
 C:\Users\janle\source\repos\GitHub-Beginner-Lab\StudentProfile\StudentProfile\obj\Debug\StudentProfile.csproj.CoreCompileInputs.cache
 C:\Users\janle\source\repos\GitHub-Beginner-Lab\StudentProfile\StudentProfile\obj\Debug\StudentProfile.exe
 C:\Users\janle\source\repos\GitHub-Beginner-Lab\StudentProfile\StudentProfile\obj\Debug\StudentProfile.pdb
+C:\Users\janle\Source\Repos\GitHub-Beginner-Lab\StudentProfile\StudentProfile\obj\Debug\StudentProfile.exe.config
